@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ThreeLineTest</string>
+    <string name="title_today">Today</string>
+    <string name="title_weekly">Weekly</string>
+    <string name="title_share">Share</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
